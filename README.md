@@ -1,2 +1,1 @@
-# learn-ruby-rails
-Learning Ruby Rails
+# Learning Ruby on Rails
